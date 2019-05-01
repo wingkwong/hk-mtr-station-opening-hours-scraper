@@ -1,0 +1,95 @@
+station_id,station_code,chinese_name,english_name,open_time,close_time
+1,CEN,中環,Central,05:56,01:14
+2,ADM,金鐘,Admiralty,05:55,01:15
+3,TST,尖沙咀,Tsim Sha Tsui,05:54,01:09
+4,JOR,佐敦,Jordan,05:53,01:11
+5,YMT,油麻地,Yau Ma Tei,05:51,01:14
+6,MOK,旺角,Mong Kok,06:00,01:16
+7,SKM,石硤尾,Shek Kip Mei,05:56,01:19
+8,KOT,九龍塘,Kowloon Tong,05:20,01:21
+9,LOF,樂富,Lok Fu,05:52,01:23
+10,WTS,黃大仙,Wong Tai Sin,05:50,01:24
+11,DIH,鑽石山,Diamond Hill,05:49,01:26
+12,CHH,彩虹,Choi Hung,05:47,01:28
+13,KOB,九龍灣,Kowloon Bay,05:53,01:30
+14,NTK,牛頭角,Ngau Tau Kok,05:51,01:32
+15,KWT,觀塘,Kwun Tong,05:50,01:34
+16,PRE,太子,Prince Edward,05:58,01:17
+17,SSP,深水埗,Sham Shui Po,06:04,01:18
+18,CSW,長沙灣,Cheung Sha Wan,06:03,01:20
+19,LCK,茘枝角,Lai Chi Kok,06:01,01:21
+20,MEF,美孚,Mei Foo,05:53,01:23
+21,LAK,茘景,Lai King,05:52,01:26
+22,KWF,葵芳,Kwai Fong,05:55,01:28
+23,KWH,葵興,Kwai Hing,05:54,01:30
+24,TWH,大窩口,Tai Wo Hau,05:51,01:32
+25,TSW,荃灣,Tsuen Wan,05:50,01:34
+26,SHW,上環,Sheung Wan,05:55,01:16
+27,WAC,灣仔,Wan Chai,05:53,01:11
+28,CAB,銅鑼灣,Causeway Bay,05:51,01:14
+29,TIH,天后,Tin Hau,05:59,01:16
+30,FOH,炮台山,Fortress Hill,05:58,01:17
+31,NOP,北角,North Point,05:56,01:22
+32,QUB,鰂魚涌,Quarry Bay,05:54,01:24
+33,TAK,太古,Tai Koo,05:53,01:23
+34,SWH,西灣河,Sai Wan Ho,05:51,01:25
+35,SKW,筲箕灣,Shau Kei Wan,05:49,01:27
+36,HFC,杏花邨,Heng Fa Chuen,05:48,01:29
+37,CHW,柴灣,Chai Wan,05:45,01:32
+38,LAT,藍田,Lam Tin,05:55,01:30
+39,HOK,香港,Hong Kong,05:40,01:14
+40,KOW,九龍,Kowloon,05:43,01:20
+41,OLY,奧運,Olympic,05:57,01:15
+42,TSY,青衣,Tsing Yi,05:49,01:13
+43,TUC,東涌,Tung Chung,05:52,01:25
+44,HOK,香港,Hong Kong,05:40,01:14
+45,KOW,九龍,Kowloon,05:43,01:20
+46,TSY,青衣,Tsing Yi,05:49,01:13
+47,AIR,機場,Airport,05:44,01:22
+48,YAT,油塘,Yau Tong,05:57,01:28
+49,TIK,調景嶺,Tiu Keng Leng,05:56,01:31
+50,TKO,將軍澳,Tseung Kwan O,05:54,01:36
+51,HAH,坑口,Hang Hau,05:52,01:35
+52,POA,寶琳,Po Lam,05:50,01:37
+53,NAC,南昌,Nam Cheong,05:50,01:13
+54,SUN,欣澳,Sunny Bay,05:59,01:19
+55,DIS,迪士尼,Disneyland Resort,06:10,00:59
+56,AWE,博覽館,AsiaWorld-Expo,05:40,01:22
+57,LHP,康城,LOHAS Park,05:47,01:40
+64,HUH,紅磡,Hung Hom,05:20,01:20
+65,MKK,旺角東,Mong Kok East,05:18,01:17
+67,TAW,大圍,Tai Wai,05:25,01:15
+68,SHT,沙田,Sha Tin,05:25,01:07
+69,FOT,火炭,Fo Tan,05:27,01:04
+71,UNI,大學,University,05:31,01:01
+72,TAP,大埔墟,Tai Po Market,05:37,01:01
+73,TWO,太和,Tai Wo,05:37,01:03
+74,FAN,粉嶺,Fanling,05:32,01:09
+75,SHS,上水,Sheung Shui,05:30,01:12
+76,LOW,羅湖,Lo Wu,05:45,00:40
+78,LMC,落馬洲,Lok Ma Chau,06:28,23:05
+80,ETS,尖東,East Tsim Sha Tsui,05:44,00:59
+81,SYP,西營盤,Sai Ying Pun,05:53,01:18
+82,HKU,香港大學,HKU,05:51,01:20
+83,KET,堅尼地城,Kennedy Town,05:50,01:21
+84,HOM,何文田,Ho Man Tin,06:02,01:12
+85,WHA,黃埔,Whampo,06:00,01:10
+86,OCP,海洋公園,Ocean Park,05:56,01:20
+87,WCH,黃竹坑,Wong Chuk Hang,05:54,01:22
+88,LET,利東,Lei Tung,05:52,01:24
+89,SOH,海怡半島,South Horizons,05:50,01:26
+96,CKT,車公廟,Che Kung Temple,05:31,01:16
+97,STW,沙田圍,Sha Tin Wai,05:33,01:18
+98,CIO,第一城,City One,05:35,01:20
+99,SHM,石門,Shek Mun,05:37,01:22
+100,TSH,大水坑,Tai Shui Hang,05:36,01:25
+101,HEO,恆安,Heng On,05:34,01:27
+102,MOS,馬鞍山,Ma On Shan,05:32,01:29
+103,WKS,烏溪沙,Wu Kai Sha,05:30,01:31
+111,AUS,柯士甸,Austin,05:47,00:56
+114,TWW,荃灣西,Tsuen Wan West,05:56,00:49
+115,KSR,錦上路,Kam Sheung Road,05:50,00:56
+116,YUL,元朗,Yuen Long,05:46,00:59
+117,LOP,朗屏,Long Ping,05:44,01:01
+118,TIS,天水圍,Tin Shui Wai,05:42,01:04
+119,SIH,兆康,Siu Hong,05:37,01:08
